@@ -7,7 +7,7 @@
        TripID: '8696664',
        RouteID: 'B24',
        DirectionNum: 0,
-       DirectionText: 'EAST',
+       DirectionText: 'WEST',
        TripHeadsign: 'BOWIE PARK & RIDE',
        TripStartTime: '2016-03-30T15:05:00',
        TripEndTime: '2016-03-30T15:58:00' },
